@@ -1,0 +1,2 @@
+# ninjabitbot
+Bitcoinnugga
